@@ -117,3 +117,4 @@ for i,b in data_panen.items():
         print(f"{b}     :  dalam batas aman\n")
 
 print('221')
+print('112')
